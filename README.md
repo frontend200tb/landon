@@ -1,2 +1,2 @@
 # landon
-Ivan Kashirin - Project - landon
+2021 Иван Каширин - Верстка учебного проекта Landon
