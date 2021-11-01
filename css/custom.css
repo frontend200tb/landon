@@ -61,6 +61,11 @@ form .col-sm-10 {
 	padding: 10px 0;
 	margin: 0;
 }
+
+.copyright a {
+	text-decoration: none;
+	color: #999;
+}
 /* Small devices (tablets, 768px and up) 
 
 Greater than 768 px, push logo left and tagline right. Alter 
